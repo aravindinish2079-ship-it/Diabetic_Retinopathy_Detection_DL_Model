@@ -22,11 +22,11 @@
 
 <p align="center">
 
-<img src="images/home.png" width="800">
+<img src="home.png" width="800">
 
 <br><br>
 
-<img src="images/prediction.png" width="800">
+<img src="Prediction.png" width="800">
 
 </p>
 
