@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="Prediction.png" width="800">
+<img src="Predicition.png" width="800">
 
 </p>
 
